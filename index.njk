@@ -4,11 +4,21 @@ eleventyNavigation:
   key: Home
   order: 1
 ---
-{% set maxPosts = collections.posts.length | min(3) %}
-<h1>Latest {% if maxPosts == 1 %}Post{% else %}{{ maxPosts }} Posts{% endif %}</h1>
+<div class="row">
+  <div class="col-sm-4"><div class="card boxer ">
+    
+    <div class="card-body ">
+      
+      <p class="card-text"><em>This project is in its earliest stages. Please check back in the future to discover <b>trainings</b>, <b>resources</b> and a <b>registry</b> of ACRE certified folks.</em></p>
+     
+    </div>
+  </div></div>
+  <div class="col-sm-8"><div class="lead">
+    <p>
+    The Institute for Community Inclusion at the University of Massachusetts Boston (ICI)</a> coordinates the implementation of Maine's Employment Services Workforce Development System (EWDS).</p>
+     
+    <p>The ICI will work with the Center for Community Inclusion and Disability Services (CCIDS) at the University of Maine to support efforts to develop a strong employment workforce in the state of Maine. The Maine Working Together project will provide training, resources, and assistance to Maine employment services providers, individuals with disabilities, family members, and other collaborating team members to ensure that individualized community employment is available to everyone.</p>
+     
+    </div></div>
+</div>
 
-{% set postslist = collections.posts | head(-3) %}
-{% set postslistCounter = collections.posts | length %}
-{% include "postslist.njk" %}
-
-<p>More posts can be found in <a href="{{ '/posts/' | url }}">the archive</a>.</p>

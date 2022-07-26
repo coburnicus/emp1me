@@ -1,0 +1,15 @@
+h1, h2 {font-family: 'Montserrat', sans-serif;}
+header h1 {color:#5F9632; padding-bottom: 0px; margin-bottom: 0px;}
+header h2 {color: #0077AF; padding-top:0px; margin-top:0px;}
+header img {float: right; max-width: 200px;}
+header {  border-bottom: 5px solid;
+    border-image: linear-gradient(45deg,#5F9632, #0077AF) 1;
+margin-bottom: 3em;
+}
+footer {  border-top: 5px solid;
+    border-image: linear-gradient(45deg,#0077AF, #5F9632) 1;
+margin-top: 3em;
+}
+.boxer {border: 5px solid;
+    border-image: linear-gradient(45deg,#5F9632, #0077AF) 1;
+margin-bottom: 3em;}
