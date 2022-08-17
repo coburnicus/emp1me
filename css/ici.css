@@ -87,4 +87,5 @@ margin-bottom: 3em;}
   * {
     box-sizing: border-box;
   }
-  
+
+  .nav-link {color:#0077AF; }
