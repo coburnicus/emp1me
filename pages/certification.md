@@ -75,7 +75,7 @@ eleventyNavigation:
   
 </details>
 
-
+<div class="clearfix">
 <div class="card card-body mobi50 mt-4 boxer">
 <h4>Key Acronyms:</h4>
 
@@ -89,5 +89,6 @@ eleventyNavigation:
   <dt>DoD</dt> <dd>Division of the Deaf, Hard of Hearing & Late Deafened.</dd>
 </dl>
 </div>
-<p><i>Please note:</i> All positions require additional qualifications such as High School diploma, or GED, minimum age, background checks.  For more information on Careers in the field of Human Services in Maine also see: <a href="https://caringforme.org/">https://caringforme.org/</a></p>
+</div>
+<p ><i>Please note:</i> All positions require additional qualifications such as High School diploma, or GED, minimum age, background checks.  For more information on Careers in the field of Human Services in Maine also see: <a href="https://caringforme.org/">https://caringforme.org/</a></p>
   
