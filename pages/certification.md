@@ -7,7 +7,7 @@ eleventyNavigation:
   key: Certification
   order: 3
 ---
-<p>Select one of the roles below to learn specifics about the role.</p>
+<p>Select one of the roles below to learn specifics about the role and register for certification training.</p>
 <details>
   <summary>Job Coach or Work Support Professional</summary>
 <h4>Job Duties and Role</h4>
@@ -23,7 +23,8 @@ eleventyNavigation:
 </ul>
 <h4>What Training is required for the positions?</h4>
 <p>College of Direct Support - Direct Support Professional and additional Work Support modules <b>Or</b> College of Employment Services <b>Or</b> ACRE* Employment Specialist.</p>
-  
+
+  <p><a href="https://umassboston.co1.qualtrics.com/jfe/form/SV_egSsH92pVUkD8X4" class="btn btn-primary btn-sm">Register for Certification Training</a></p>
 </details>
 <details>
   <summary>Employment Specialist or Job Developer</summary>
@@ -43,7 +44,7 @@ eleventyNavigation:
   <b>And</b> 
   6 hours per year of ongoing continuing employment related education
   </p>
-  
+  <p><a href="https://umassboston.co1.qualtrics.com/jfe/form/SV_egSsH92pVUkD8X4" class="btn btn-primary btn-sm">Register for Certification Training</a></p>
 </details>
 
 <details>
@@ -73,7 +74,7 @@ eleventyNavigation:
 </details>
 
 <hr>
-<div class="card card-body">
+<div class="card card-body mobi50">
 <h4>Key:</h4>
 
 <dl>
