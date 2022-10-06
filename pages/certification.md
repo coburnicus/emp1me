@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Certification & Training
+title: Certification and Training
 templateClass: tmpl-post
 permalink: "certification/"
 eleventyNavigation:
