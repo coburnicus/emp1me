@@ -6,8 +6,8 @@ eleventyNavigation:
   key: Staff
   order: 4
 ---
-<h3 class="border-bottom border-1">ICI Staff</h3>
- <div class="row row-eq-height row-cols-1 row-cols-xs-1 row-cols-sm-2 row-cols-lg-3 align-self-stretch g-3 mb-5">
+<h3 class="border-bottom border-1">Institute for Community Inclusion/University of Massachusetts</h3>
+ <div class="row pt-3 row-eq-height row-cols-1 row-cols-xs-1 row-cols-sm-2 row-cols-lg-3 align-self-stretch g-3 mb-5">
    <div class="col d-flex align-item-end">
           <div class="card shadow-sm">
             <img src="../img/staff/lara-enein.jpg" alt="Lara Enein" />
@@ -54,8 +54,8 @@ eleventyNavigation:
           </div>
         </div>
 </div>
-     <h3 class="border-bottom border-1">University of Maine staff</h3>
-       <div class="row row-eq-height row-cols-1 row-cols-xs-1 row-cols-sm-2 row-cols-lg-3 align-self-stretch g-3">
+     <h3 class="border-bottom border-1">Center for Community Inclusion and Disability Studies/University of Maine</h3>
+       <div class="row pt-3 row-eq-height row-cols-1 row-cols-xs-1 row-cols-sm-2 row-cols-lg-3 align-self-stretch g-3">
               <div class="col d-flex align-item-end">
           <div class="card shadow-sm">
                   <img src="../img/staff/Janet-May_600x600.jpg" alt="Janet May" />
