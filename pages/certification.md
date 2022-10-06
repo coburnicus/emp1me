@@ -22,9 +22,13 @@ eleventyNavigation:
 <li>Schools and summer employment programs for transition age youth Department of <a href="https://www.maine.gov/doe/learning/specialed">Education-Special Services</a></li>
 </ul>
 <h4>What Training is required for the positions?</h4>
-<p>College of Direct Support - Direct Support Professional and additional Work Support modules <b>Or</b> College of Employment Services <b>Or</b> ACRE* Employment Specialist.</p>
-
-  <p><a href="https://umassboston.co1.qualtrics.com/jfe/form/SV_egSsH92pVUkD8X4" class="btn btn-primary btn-sm" target="_blank">Register for Certification Training</a></p>
+<strong>
+<p><a href="https://www.maine.gov/dhhs/oads/providers/adults-with-intellectual-disability-and-autism/resources-training/college-of-direct-supports">College of Direct Support - Direct Support Professional and additional Work Support modules</a><br>
+  <b>Or</b><br>
+  <a href="https://umassboston.co1.qualtrics.com/jfe/form/SV_egSsH92pVUkD8X4">College of Employment Services</a><br> 
+  <b>Or</b><br>
+   <a href="https://www.communityinclusion.org/cesacre">ACRE* Employment Specialist.</a></p>
+</strong>
 </details>
 <details>
   <summary>Employment Specialist or Job Developer</summary>
@@ -40,12 +44,13 @@ eleventyNavigation:
 <li>Schools and summer employment programs for transition age youth Department of <a href="https://www.maine.gov/doe/learning/specialed">Education-Special Services</a></li>
 </ul>
 <h4>What Training is required for the positions?</h4>
-<p>ACRE approved Employment Specialist Certification
-  <b>And</b> 
+<strong>
+<p>ACRE approved Employment Specialist Certification (<a href="https://umassboston.co1.qualtrics.com/jfe/form/SV_egSsH92pVUkD8X4">Online</a> | <a href="https://www.eventbrite.com/e/acre-basic-employment-certificate-training-registration-424198447977">In-Person</a>)<br>
+  <b>And</b> <br>
   6 hours per year of ongoing continuing employment related education
   </p>
-  <p><a href="https://umassboston.co1.qualtrics.com/jfe/form/SV_egSsH92pVUkD8X4" class="btn btn-primary btn-sm" target="_blank">Register for Online Certification Training</a></p>
-  <p><a href=" https://www.eventbrite.com/e/acre-basic-employment-certificate-training-registration-424198447977" class="btn btn-primary btn-sm" target="_blank">Register for in-person Certification Training</a></p>
+</strong>
+  
 </details>
 
 <details>
@@ -64,7 +69,8 @@ eleventyNavigation:
 <li>Bureau of Rehabilitation Services and DoD</li>
 </ul>
 <h4>What Training is required for the positions?</h4>
-<p>Must be either Work Support Certified or an ACRE Employment Specialist <br>
+
+<p>Must be either Work Support Certified or an <a href="https://www.communityinclusion.org/cesacre">ACRE Employment Specialist</a><br>
   <b>AND</b><br>
   Attend 12 Hours of Career Planning Training through OADS</br>
   <b>AND</b> <br>
