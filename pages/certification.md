@@ -97,4 +97,5 @@ eleventyNavigation:
 </div>
 </div>
 <p ><i>Please note:</i> All positions require additional qualifications such as High School diploma, or GED, minimum age, background checks.  For more information on Careers in the field of Human Services in Maine also see: <a href="https://caringforme.org/">https://caringforme.org/</a></p>
-  
+ 
+<p>If you need assistance or have questions about certification, please contact <a href="mailto:lara.enein@umb.edu">Lara Enein</a>.
