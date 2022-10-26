@@ -110,6 +110,9 @@ module.exports = function(eleventyConfig) {
     // Pre-process *.html files with: (default: `liquid`)
     htmlTemplateEngine: "njk",
 
+
+    dataTemplateEngine: 'njk',
+
     // -----------------------------------------------------------------
     // If your site deploys to a subdirectory, change `pathPrefix`.
     // Don’t worry about leading and trailing slashes, we normalize these.

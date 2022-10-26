@@ -1,0 +1,22 @@
+{% extends "layouts/base.njk" %}
+
+{% block content %}
+
+<div class="container mx-auto px-4">
+    <h1>Certifications</h1>
+<table class="table DataTable table-striped display" id="mainecertsdb">
+<thead>
+    <tr>
+      <th>Last</th>
+      <th>First</th>
+      <th>Certification</th>
+      <th>Date of Certification</th>
+    </tr>
+    </thead>
+      <tbody>
+      {% include "partials/certList.html" %}
+     </tbody>
+    </table>
+    </div>
+
+{% endblock %}

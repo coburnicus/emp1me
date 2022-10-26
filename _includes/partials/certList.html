@@ -1,0 +1,14 @@
+{% if certs.length %}
+    {% for cert in certs %}
+
+    <tr>
+      <td> {{ cert.last }}</td>
+      <td>{{ cert.first }} </td>
+      <td>{{ cert.cert }}</td>
+      <td>{{ cert.date }}</td>
+    </tr>
+
+
+
+    {% endfor %}
+{% endif %}

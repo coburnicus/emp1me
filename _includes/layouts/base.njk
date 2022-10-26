@@ -3,18 +3,18 @@
   {% include 'head.html' %}
   <body>
     <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5CTKN9N"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+ <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5CTKN9N"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> 
 <!-- End Google Tag Manager (noscript) -->
     <div class="container">
-      <div class="content  mx-lg-5">
+      <div class="content mx-lg-5">
     <header>
      {% include 'header.html' %}
     </header>
 
     <main{% if templateClass %} class="{{ templateClass }}"{% endif %}>
 
-    
+            {% block content %}{% endblock %}
 
       {{ content | safe }}
     </main>
