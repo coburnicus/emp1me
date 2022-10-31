@@ -10,7 +10,8 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">   
     <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">    	
     <link rel="stylesheet" href="/css/ici.css">
-    
+  <link rel="stylesheet" href="https://cdn.datatables.net/searchpanes/2.0.2/css/searchPanes.dataTables.min.css">
+<link rel="stylesheet" href="https://cdn.datatables.net/select/1.4.0/css/select.dataTables.min.css">
     <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">
     <link rel="alternate" href="{{ metadata.jsonfeed.path | url }}" type="application/json" title="{{ metadata.title }}">
     <!-- Google Tag Manager -->
@@ -26,12 +27,32 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
      <script type="text/javascript" language="javascript" src="https://code.jquery.com/jquery-3.5.1.js"></script>
 
     <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.js"></script>
- 
+  <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/searchpanes/2.0.2/js/dataTables.searchPanes.min.js"></script>
+ <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/select/1.4.0/js/dataTables.select.min.js"></script>
+ <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/buttons/2.2.3/js/dataTables.buttons.min.js"></script>
 <script type="text/javascript" language="javascript" class="init">
     
+$(document).ready(function () {
 
-       document.addEventListener('DOMContentLoaded', function () {
-    let table = new DataTable('#mainecertsdb');
-});
+       // Paging and other information are
+        // disabled if required, set to true
+        var myTable = $("#mainecertsdb").DataTable({
+        
+          paging: true,
+          responsive: true,
+          searching: true,
+          info: false,
+           lengthMenu: 
+            [ 25, 50, 'All'],
+               dom: 'Plfrtip',
+            columnDefs: [{
+      searchPanes: {
+        show: false
+      },
+        targets: [0,1,3]
+      
+    }]
+        });
+      });
     </script>
   </head>
