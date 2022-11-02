@@ -1,4 +1,56 @@
 ---
 label: Events
 hide_body: false
-fields: []
+fields:
+- name: event_name
+  type: text
+  config:
+    required: true
+  label: Event name
+- name: event_type
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - 'In-Person Training '
+    - Webinar
+    - On Demand
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Event Type
+- name: starts
+  type: datetime
+  label: Starts
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+- name: ends
+  type: datetime
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+  label: Ends
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Description
+- name: registration_link
+  type: text
+  config:
+    required: false
+  label: Registration Link
