@@ -46,5 +46,15 @@ fields:
   config:
     required: false
   label: Registration Link
+- name: cost
+  type: number
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
+  label: Cost $
 pages:
 - events/jc-test.md
