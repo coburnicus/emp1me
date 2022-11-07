@@ -25,7 +25,7 @@ eleventyNavigation:
 <li><a href="https://www.maine.gov/dhhs/obh/support-services/employment-services">Office of Behavioral Health-Employment</a></li>
 <li>Schools and summer employment programs for transition age youth Department of <a href="https://www.maine.gov/doe/learning/specialed">Education-Special Services</a></li>
 </ul>
-<h4>What Training is required for the positions?</h4>
+<h4>What Training is required for the positions? (Pick one)</h4>
 <p><strong><a href="https://www.maine.gov/dhhs/oads/providers/adults-with-intellectual-disability-and-autism/resources-training/college-of-direct-supports">College of Direct Support - Direct Support Professional and additional Work Support modules</a></strong> - College of Direct Support (CDS) is a suite of online courses that train support professionals to assist people with disabilities to lead meaningful, inclusive lives. <a href="https://www.maine.gov/dhhs/oads/providers/adults-with-intellectual-disability-and-autism/resources-training/college-of-direct-supports">The ME College of Direct Support offers registration on their website</a>.  </p>
 
 <p>
