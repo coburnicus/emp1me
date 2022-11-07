@@ -97,6 +97,7 @@ margin-bottom: 3em;}
     border: 1px solid #aaa;
     border-radius: 4px;
     padding: .5em .5em 0;
+    margin-top: 1em;
 }
 
 summary {
@@ -129,3 +130,8 @@ summary {padding:1em;}
 @media (min-width: 992px) { 
   .mobi50 {max-width: 50%; float:right;}
 }
+
+.card_me {border:#0077AF solid 3px; border-radius: 1rem; padding:.5em; width: fit-content; background-color: #FFFAED; margin-left: 1em;}
+.card_me p {padding: 0; margin:0;}
+
+.card_me .card_me {border:#5F9632 solid 1px; background-color: white; }
