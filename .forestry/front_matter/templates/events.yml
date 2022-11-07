@@ -41,6 +41,11 @@ fields:
     time_format: 
     display_utc: false
   label: Ends
+- name: location
+  type: text
+  config:
+    required: false
+  label: Location
 - name: registration_link
   type: text
   config:
