@@ -2,8 +2,7 @@
 layout: layouts/post.njk
 title: Certification and Training
 templateClass: tmpl-post
-permalink: "certification_jc
-/"
+permalink: "certification_jc/"
 eleventyNavigation:
   key: Certification
   order: 3
