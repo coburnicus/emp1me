@@ -11,9 +11,13 @@ eleventyNavigation:
 <details>
   <summary>Job Coach or Work Support Professional</summary>
 <h4>Job Duties and Role</h4>
-<p>Provides support to people with disabilities who have jobs or own a business to maintain the employment, including teaching skills to perform duties and building natural supports on the job. </p>
+<p>Provides employment support to people with disabilities who have jobs or own a business, including teaching skills to perform duties and building natural supports on the job. </p>
 <h4>Who's the Service for?</h4>
-<p>People with disabilities who need support to maintain their employment and are connected to a state funded program or as part of an IPE*</p>
+<ul>
+  <li>People with disabilities who need support to maintain their employment and are connected to a state-funded program</li>
+  <li>People with disabilities who need support to maintain their employment as part of an Individualized Plan for Employment (IPE)*</li>
+</ul>
+
 <h4>What state Agency use the service</h4>
 <ul>
 <li><a href="https://www.maine.gov/rehab/crp/index.shtml">Bureau of Rehabilitation Services Maine</a></li>
@@ -22,18 +26,36 @@ eleventyNavigation:
 <li>Schools and summer employment programs for transition age youth Department of <a href="https://www.maine.gov/doe/learning/specialed">Education-Special Services</a></li>
 </ul>
 <h4>What Training is required for the positions?</h4>
-<strong>
-<p><a href="https://www.maine.gov/dhhs/oads/providers/adults-with-intellectual-disability-and-autism/resources-training/college-of-direct-supports">College of Direct Support - Direct Support Professional and additional Work Support modules</a><br>
-  <b>Or</b><br>
-  <a href="https://umassboston.co1.qualtrics.com/jfe/form/SV_egSsH92pVUkD8X4">College of Employment Services</a><br> 
-  <b>Or</b><br>
-   <a href="https://www.communityinclusion.org/cesacre">ACRE* Employment Specialist.</a></p>
-</strong>
+<p><strong><a href="https://www.maine.gov/dhhs/oads/providers/adults-with-intellectual-disability-and-autism/resources-training/college-of-direct-supports">College of Direct Support - Direct Support Professional and additional Work Support modules</a></strong> - College of Direct Support (CDS) is a suite of online courses that train support professionals to assist people with disabilities to lead meaningful, inclusive lives. <a href="https://www.maine.gov/dhhs/oads/providers/adults-with-intellectual-disability-and-autism/resources-training/college-of-direct-supports">The ME College of Direct Support offers registration on their website</a>.  </p>
+
+<p>
+  <strong><a href="https://umassboston.co1.qualtrics.com/jfe/form/SV_egSsH92pVUkD8X4">College of Employment Services</a> Online Job Coaching Modules & Fading Supports In-Person Training</strong> - College of Employment Services (CES) is a suite of online courses that train employment professionals in best practices for supporting people with disabilities to build fulfilling careers. There are two parts to this training. You are required to complete the assigned job coach modules and also register for the in-person Fading Supports Training when it is offered. We offer registration for both the online and the in-person training on this website.
+
+  <ul>
+    <li><strong>Part 1: CES Online Job Coaching Modules</strong></li>
+    <li><strong>Part 2: Fading Supports In-Person Training</strong> - Check the events page for the next offering</li>
+  </ul>
+</p>
+
+<p><a href="https://www.communityinclusion.org/cesacre"><strong>ACRE* Employment Specialist</strong></a> (ACRE Certificate) - you can take this training either online or in-person. This training teaches best practices in employment services, including career planning, job development, and job coaching strategies.   You must complete fieldwork in addition to attending the trainings to get the certificate. We offer registration for both the online and the in-person training on this website.</p>
+
+<p><strong>ACRE Employment Specialist Training Offerings (Pick one)</strong></p>
+
+<p>
+  ACRE Online Training: College of Employment Services (CES) provides this training. CES is a suite of online courses that train employment professionals in best practices for supporting people with disabilities to build fulfilling careers. There are two parts to the online training. You must complete both parts to get the certificate.
+ <ol>
+   <li>Part 1: complete the required <a href="https://umassboston.co1.qualtrics.com/jfe/form/SV_egSsH92pVUkD8X4?jfefe=new">CES online courses</a></li>
+   <li>Part 2: complete the <a href="https://cesacre.communityinclusion.org">required fieldwork assignments</a></li>
+ </ol>
+</p>
+
+ACRE In-Person Training: We offer this training numerous times throughout the year. It provides both the required training curriculum and fieldwork. Check the events pages for the next offering.
+
 </details>
 <details>
   <summary>Employment Specialist or Job Developer</summary>
 <h4>Job Duties and Role</h4>
-<p>Provides support to people with disabilities to find employment that is based on their skills, education, interest and abilities. Jobs can be either full or part time, and even self-employment. </p>
+<p>Provides support to people with disabilities to find employment that is based on their skills, education, interests, and abilities. Jobs can be either full time or part time, and even self-employment. </p>
 <h4>Who's the Service for?</h4>
 <p>People with disabilities who have barriers to getting a job and qualify for the service through either OADS*, OBH* or BRS*</p>
 <h4>What state Agency use the service</h4>
@@ -45,38 +67,49 @@ eleventyNavigation:
 </ul>
 <h4>What Training is required for the positions?</h4>
 <strong>
-<p>ACRE approved Employment Specialist Certification (<a href="https://umassboston.co1.qualtrics.com/jfe/form/SV_egSsH92pVUkD8X4">Online</a> | <a href="https://www.eventbrite.com/e/acre-basic-employment-certificate-training-registration-424198447977">In-Person</a>)<br>
-  <b>And</b> <br>
-  6 hours per year of ongoing continuing employment related education
-  </p>
+<p>ACRE approved Employment Specialist Certification - pick one:
 </strong>
-  
+<p><strong>ACRE Online Training</strong> College of Employment Services (CES) provides this training. CES is a suite of online courses that train employment professionals in best practices for supporting people with disabilities to build fulfilling careers. There are two parts to the online training. You must complete both parts to get the certificate.</p>
+<ol>
+  <li>Part 1: complete the required <a href="https://umassboston.co1.qualtrics.com/jfe/form/SV_egSsH92pVUkD8X4?jfefe=new">CES online courses</a></li>
+  <li>Part 2: complete <a href="https://cesacre.communityinclusion.org/">the required fieldwork assignments</a></li>
+</ol>
+<p><strong>OR</strong></p>
+<p><strong>ACRE In-Person Training:</strong> We offer this training numerous times throughout the year. It provides both the required training curriculum and fieldwork. Check the events pages for the next offering. </p>
+<p><strong>AND</strong></p>
+<p><strong>6 hours per year of ongoing continuing employment-related education</strong></p>
+
 </details>
 
 <details>
-  <summary>Career Planner</summary>
+  <summary>Career Planning Specialist</summary>
 <h4>Job Duties and Role</h4>
-<p>Career Planner	Works with people with disabilities to explore, and learn about work, while developing a written Career Plan. The  information learned to be used in an application to Vocational Rehabilitation for job development  assistance.</p>
+<p>A Career Planning Specialist works with people with disabilities to explore and learn about work, while developing a written Career Plan. The Career Plan can be used by vocational rehabilitation (VR) for job development assistance.</p>
 
 
 <h4>Who's the Service for?</h4>
-<p>People with intellectual disabilities and autism </p>
-<p>BRS clients who require the service may be able to access Career Planning through them as part of an IPE*
-</p>
+<ul>
+  <li>People with intellectual disabilities and autism</li>
+  <li>Bureau of Rehabilitation Services (BRS) clients who require the service may be able to access Career Planning as part of an Individualized Plan for Employment (IPE)*</li>
+</ul>
+
 <h4>What state Agency use the service</h4>
 <ul>
-<li>Office of Aging and Disability Services</li>
-<li>Bureau of Rehabilitation Services and DoD</li>
+<li>Bureau of Rehabilitation Services </li>
+<li>Office of Aging and Disability Services (OADS)</li>
+<li>Division of Deaf, Hard of Hearing and late Deafened</li>
+  
 </ul>
 <h4>What Training is required for the positions?</h4>
 
-<p>Must be either Work Support Certified or an <a href="https://www.communityinclusion.org/cesacre">ACRE Employment Specialist</a><br>
+<p>Work-Support Certified or an ACRE Employment Specialist [see Employment Specialist/Job Developer above] training</a> <br>
   <b>AND</b><br>
-  Attend 12 Hours of Career Planning Training through OADS</br>
+  12 hours of Career Planning Training through OADS</br>
   <b>AND</b> <br>
-  continuing 6 hours per year of ongoing employment related training
-  
+  6 hours per year of continuing ongoing employment-related training
   </p>
+
+  <p>We offer this training multiple times a year, and we offer registration on this website. Check the events section for information about the next offering.
   
   
 </details>
