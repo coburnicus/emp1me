@@ -25,14 +25,9 @@ eleventyNavigation:
 <li><a href="https://www.maine.gov/dhhs/obh/support-services/employment-services">Office of Behavioral Health-Employment</a></li>
 <li>Schools and summer employment programs for transition age youth Department of <a href="https://www.maine.gov/doe/learning/specialed">Education-Special Services</a></li>
 </ul>
-<h4>What Training is required for the positions?</h4>
-<strong>Pick One</strong>
-<div class="card_me">
-  <div class="card_me">
+<h4>What Training is required for the positions? (Pick one)</h4>
 <p><strong><a href="https://www.maine.gov/dhhs/oads/providers/adults-with-intellectual-disability-and-autism/resources-training/college-of-direct-supports">College of Direct Support - Direct Support Professional and additional Work Support modules</a></strong> - College of Direct Support (CDS) is a suite of online courses that train support professionals to assist people with disabilities to lead meaningful, inclusive lives. <a href="https://www.maine.gov/dhhs/oads/providers/adults-with-intellectual-disability-and-autism/resources-training/college-of-direct-supports">The ME College of Direct Support offers registration on their website</a>.  </p>
-  </div>
-  <strong>OR</strong>
-  <div class="card_me">
+
 <p>
   <strong><a href="https://umassboston.co1.qualtrics.com/jfe/form/SV_egSsH92pVUkD8X4">College of Employment Services</a> Online Job Coaching Modules & Fading Supports In-Person Training</strong> - College of Employment Services (CES) is a suite of online courses that train employment professionals in best practices for supporting people with disabilities to build fulfilling careers. There are two parts to this training. You are required to complete the assigned job coach modules and also register for the in-person Fading Supports Training when it is offered. We offer registration for both the online and the in-person training on this website.
 
@@ -41,29 +36,20 @@ eleventyNavigation:
     <li><strong>Part 2: Fading Supports In-Person Training</strong> - Check the events page for the next offering</li>
   </ul>
 </p>
-</div>
-<strong>OR</strong>
-<div class="card_me">
+
 <p><a href="https://www.communityinclusion.org/cesacre"><strong>ACRE* Employment Specialist</strong></a> (ACRE Certificate) - you can take this training either online or in-person. This training teaches best practices in employment services, including career planning, job development, and job coaching strategies.   You must complete fieldwork in addition to attending the trainings to get the certificate. We offer registration for both the online and the in-person training on this website.</p>
-</div>
-</div>
-<p class="h4"><strong>AND</strong></p>
+
 <p><strong>ACRE Employment Specialist Training Offerings (Pick one)</strong></p>
-<div class="card_me">
-  <div class="card_me">
+
 <p>
-  <strong>ACRE Online Training</strong>: College of Employment Services (CES) provides this training. CES is a suite of online courses that train employment professionals in best practices for supporting people with disabilities to build fulfilling careers. There are two parts to the online training. You must complete both parts to get the certificate.
+  ACRE Online Training: College of Employment Services (CES) provides this training. CES is a suite of online courses that train employment professionals in best practices for supporting people with disabilities to build fulfilling careers. There are two parts to the online training. You must complete both parts to get the certificate.
  <ol>
    <li>Part 1: complete the required <a href="https://umassboston.co1.qualtrics.com/jfe/form/SV_egSsH92pVUkD8X4?jfefe=new">CES online courses</a></li>
    <li>Part 2: complete the <a href="https://cesacre.communityinclusion.org">required fieldwork assignments</a></li>
  </ol>
 </p>
-</div>
-<strong>OR</strong>
-<div class="card_me">
-<strong>ACRE In-Person Training</strong>: We offer this training numerous times throughout the year. It provides both the required training curriculum and fieldwork. Check the events pages for the next offering.
-</div>
-</div>
+
+ACRE In-Person Training: We offer this training numerous times throughout the year. It provides both the required training curriculum and fieldwork. Check the events pages for the next offering.
 
 </details>
 <details>
@@ -81,24 +67,17 @@ eleventyNavigation:
 </ul>
 <h4>What Training is required for the positions?</h4>
 <strong>
-<p>ACRE approved Employment Specialist Certification </p>
+<p>ACRE approved Employment Specialist Certification - pick one:
 </strong>
-<strong>Pick one:</strong>
-<div class="card_me">
-  
-  <div class="card_me">
-  <p><strong>ACRE Online Training</strong> College of Employment Services (CES) provides this training. CES is a suite of online courses that train employment professionals in best practices for supporting people with disabilities to build fulfilling careers. There are two parts to the online training. You must complete both parts to get the certificate.</p>
-  <ol>
-    <li>Part 1: complete the required <a href="https://umassboston.co1.qualtrics.com/jfe/form/SV_egSsH92pVUkD8X4?jfefe=new">CES online courses</a></li>
-    <li>Part 2: complete <a href="https://cesacre.communityinclusion.org/">the required fieldwork assignments</a></li>
-  </ol>
-  </div>
-  <p><strong>OR</strong></p>
-  <div class="card_me"><p><strong>ACRE In-Person Training:</strong> We offer this training numerous times throughout the year. It provides both the required training curriculum and fieldwork. Check the events pages for the next offering. </p></div>
-</div>
-<strong>AND</strong>
-
-<div class="card_me"><p><strong>6 hours per year of ongoing continuing employment-related education</strong></p></div>
+<p><strong>ACRE Online Training</strong> College of Employment Services (CES) provides this training. CES is a suite of online courses that train employment professionals in best practices for supporting people with disabilities to build fulfilling careers. There are two parts to the online training. You must complete both parts to get the certificate.</p>
+<ol>
+  <li>Part 1: complete the required <a href="https://umassboston.co1.qualtrics.com/jfe/form/SV_egSsH92pVUkD8X4?jfefe=new">CES online courses</a></li>
+  <li>Part 2: complete <a href="https://cesacre.communityinclusion.org/">the required fieldwork assignments</a></li>
+</ol>
+<p><strong>OR</strong></p>
+<p><strong>ACRE In-Person Training:</strong> We offer this training numerous times throughout the year. It provides both the required training curriculum and fieldwork. Check the events pages for the next offering. </p>
+<p><strong>AND</strong></p>
+<p><strong>6 hours per year of ongoing continuing employment-related education</strong></p>
 
 </details>
 
@@ -122,13 +101,13 @@ eleventyNavigation:
   
 </ul>
 <h4>What Training is required for the positions?</h4>
-<div class="card_me">
-<p>Work-Support Certified or an ACRE Employment Specialist [see Employment Specialist/Job Developer above] training</a> </p></div>
+
+<p>Work-Support Certified or an ACRE Employment Specialist [see Employment Specialist/Job Developer above] training</a> <br>
   <b>AND</b><br>
-<div class="card_me"><p>12 hours of Career Planning Training through OADS</p></div>
+  12 hours of Career Planning Training through OADS</br>
   <b>AND</b> <br>
-  <div class="card_me"><p>6 hours per year of continuing ongoing employment-related training
-  </p></div>
+  6 hours per year of continuing ongoing employment-related training
+  </p>
 
   <p>We offer this training multiple times a year, and we offer registration on this website. Check the events section for information about the next offering.
   
