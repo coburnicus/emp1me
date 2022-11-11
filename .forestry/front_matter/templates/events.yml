@@ -41,10 +41,30 @@ fields:
     time_format: 
     display_utc: false
   label: Ends
+- name: location
+  type: text
+  config:
+    required: false
+  label: Location
 - name: registration_link
   type: text
   config:
     required: false
   label: Registration Link
+- name: free
+  type: boolean
+  label: Free?
+- name: cost
+  type: number
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
+  label: Cost $
+  showOnly:
+    field: free
 pages:
 - events/jc-test.md
