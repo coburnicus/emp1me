@@ -3,6 +3,10 @@ label: Events
 hide_body: false
 display_field: event_name
 fields:
+- name: mwt
+  type: boolean
+  label: This is a MWT event
+  default: true
 - name: event_name
   type: text
   config:
