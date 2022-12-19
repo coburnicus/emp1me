@@ -70,5 +70,23 @@ fields:
   label: Cost $
   showOnly:
     field: free
+- name: topic_area
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - 'Self Determination/Self Advocacy '
+    - Career Planning & Exploration
+    - 'Job Development and Support  '
+    - Partnerships
+    - 'Transition from School to Work '
+    - 'Financial Planning & Benefits '
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Topic Area
 pages:
 - events/jc-test.md
