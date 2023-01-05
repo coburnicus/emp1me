@@ -39,7 +39,7 @@ margin-bottom: 3em;}
       padding: 15px 0;
   }
 
-
+  .navbar-toggler {background-color:#ccc}
  
   hr {
     display: block;
