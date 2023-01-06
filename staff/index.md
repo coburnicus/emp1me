@@ -46,7 +46,7 @@ eleventyNavigation:
       </div>
         <div class="col d-flex align-item-end">
           <div class="card shadow-sm">
-            <img src="../img/staff/profile-placeholder-600x600.png" alt="Kelly Wanzer" />
+            <img src="../img/staff/kelly-wanzer.png" alt="Kelly Wanzer" />
             <div class="card-body">
                 <h5 class="card-title">Kelly Wanzer, MS, CCC/SLP </h5>
               <p class="card-text">Kelly is a Speech Language Pathologist with over 10 years of experience providing services to individuals with intellectual and developmental disabilities in a variety of settings. At the ICI, Kelly develops curricula, facilitates training, and provides technical assistance on various employment related initiatives geared toward enhancing inclusive practices for individuals with disabilities. For the Maine Working Together Project, Kelly develops curricula and provides training.</p>
