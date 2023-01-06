@@ -36,7 +36,8 @@ margin-bottom: 3em;}
   }
   
   .row-striped {
-      padding: 15px 0;
+      padding: 15px 15px;
+      margin-bottom: 15px;
   }
 
   .navbar-toggler {background-color:#ccc}
