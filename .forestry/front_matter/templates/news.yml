@@ -14,3 +14,5 @@ fields:
     required: false
   label: tags
   default: news
+pages:
+- news/did-you-miss-one-of-our-webinars.md
