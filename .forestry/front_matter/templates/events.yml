@@ -98,6 +98,7 @@ fields:
   default: event
 pages:
 - events/ACRE_July_2023.md
+- events/APSE Conference 2023.md
 - events/CES ACRE Cohort April 2023.md
 - events/casemanager-elearning.md
 - events/jc-test.md
