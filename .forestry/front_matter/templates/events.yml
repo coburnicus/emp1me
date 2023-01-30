@@ -89,4 +89,5 @@ fields:
       path: 
   label: Topic Area
 pages:
+- events/case-manager-elearing.md.md
 - events/jc-test.md
