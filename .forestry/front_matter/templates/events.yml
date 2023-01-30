@@ -21,6 +21,7 @@ fields:
     - Webinar
     - In-Person
     - Online
+    - Hybrid
     source:
       type: simple
       section: 
