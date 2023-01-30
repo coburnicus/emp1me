@@ -11,3 +11,17 @@ registration_link: https://elearning.communityinclusion.org/courses/maines-visio
 free: false
 
 ---
+Our online course is for case managers and anyone responsible for advising, assisting, and advocating for individuals with disabilities seeking employment.
+
+**After completing this course learners will**
+
+* Understand the role that employment plays in an individual's life
+* Be able to support individuals in making informed choices about their employment goals
+
+**Benefits and Highlights**
+
+* Enhance your career path
+* Increase your capacity to support individuals on an employment journey
+* Complete the course anywhere with internet access at your desk or on the go with a mobile device
+* This course fits your busy schedule
+* This course is interactive and immersive
