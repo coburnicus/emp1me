@@ -88,6 +88,13 @@ fields:
       file: 
       path: 
   label: Topic Area
+- name: tags
+  type: text
+  config:
+    required: false
+  label: tags
+  hidden: true
+  default: event
 pages:
 - events/casemanager-elearning.md
 - events/jc-test.md
