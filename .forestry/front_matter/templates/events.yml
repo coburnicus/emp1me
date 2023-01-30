@@ -18,9 +18,9 @@ fields:
   config:
     required: false
     options:
-    - 'In-Person Training '
     - Webinar
-    - On Demand
+    - In-Person
+    - Online
     source:
       type: simple
       section: 
