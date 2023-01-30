@@ -29,3 +29,5 @@ Join us for this unique instructor-supported online training to become a Certifi
 **Optional Webinar:**
 
 * Wed June 7, 9:30-10:00am Instructor Office Hours- We will answer any questions virtually face-to-face
+
+To learn more about the ACRE Certificate go to [https://www.acreducators.org](https://www.acreducators.org "https://www.acreducators.org")
