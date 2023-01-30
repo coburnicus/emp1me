@@ -12,6 +12,10 @@ registration_link: ''
 free: true
 
 ---
+**Are you helping students or other individuals with disabilities to do career exploration, career planning, job development and/or job coaching?**
+
+**Would you like to become a Maine Certified Employment Specialist?**
+
 Do you like to meet other professionals and the trainers face to face? This option provides the convenience of some virtual sessions to reduce travel but also the opportunity to participate in activities and discussions in the same room with your peers.  The ACRE Certificate documents 40 hours of professional development!
 
 Attend all of the following sessions, complete the social security online course and the required fieldwork assignments to get your Certificate:
