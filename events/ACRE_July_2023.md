@@ -23,3 +23,5 @@ Attend all of the following sessions, complete the social security online course
 * Monday July 10 -Thursday July 13, 2023 9-12pm Zoom Virtual Sessions
 * Wednesday July 19 & Thursday July 20, 2023 9-4pm In-Person at University of ME, Augusta
 * Wednesday July 26 & Thursday July 27, 2023 9-4pm In-Person at University of ME, Augusta
+
+To learn more about the ACRE Certificate go to [https://www.acreducators.org](https://www.acreducators.org "https://www.acreducators.org")
