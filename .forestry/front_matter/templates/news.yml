@@ -1,4 +1,15 @@
 ---
 label: News
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: tags
+  type: text
+  config:
+    required: false
+  label: tags
+  default: news
