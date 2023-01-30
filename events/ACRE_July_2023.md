@@ -12,9 +12,9 @@ registration_link: ''
 free: true
 
 ---
-Do you like to meet other professionals and the trainers face to face? This option provides the convenience of some virtual sessions to reduce travel but also the opportunity to participate in activities and discussions in the same room with your peers.
+Do you like to meet other professionals and the trainers face to face? This option provides the convenience of some virtual sessions to reduce travel but also the opportunity to participate in activities and discussions in the same room with your peers.  The ACRE Certificate documents 40 hours of professional development!
 
- Attend all of the following sessions, complete the social security online course and the required fieldwork assignments to get your Certificate:
+Attend all of the following sessions, complete the social security online course and the required fieldwork assignments to get your Certificate:
 
 * Monday July 10 -Thursday July 13, 2023 9-12pm Zoom Virtual Sessions
 * Wednesday July 19 & Thursday July 20, 2023 9-4pm In-Person at University of ME, Augusta
