@@ -18,7 +18,7 @@ eleventyNavigation:
             <span class="lil_summary">Starts: {{ event.data.starts }} </span>
             <span class="lil_summary">Ends: {{ event.data.ends }} </span>
             </summary>
-            {{ event.data.templateContent }}
+            {{ event.templateContent | safe }}
         </details>
             {%- endfor -%}
   
