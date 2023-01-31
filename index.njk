@@ -8,8 +8,14 @@ eleventyNavigation:
   <div class="col-sm-4"><div class="card boxer ">
     
     <div class="card-body ">
+      <h2>News</h2>
+      {%- for news in collections.news -%}
       
-      <p class="card-text"><em>This project is in its earliest stages. Please check back in the future to discover <b>trainings</b>, <b>resources</b> and a <b>registry</b> of Maine certified professionals.</em></p>
+          <h4 class="h5">{{ news.data.title }} </h4>
+          
+          {{ news.templateContent | safe }}
+      </details>
+          {%- endfor -%}
      
     </div>
   </div>

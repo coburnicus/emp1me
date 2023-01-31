@@ -11,7 +11,7 @@ location: ''
 free: false
 cost: 
 topic_area: ''
-
+tags: event
 ---
 ## Presenters: Joe Zesski and Christopher Sweet, Northeast ADA Center
 

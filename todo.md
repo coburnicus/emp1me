@@ -1,0 +1,5 @@
+- [ ] format dates
+- [ ] add mwt icon
+- [ ] remove old events
+- [ ] add icons to small text
+- [ ] 

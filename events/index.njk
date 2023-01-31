@@ -1,0 +1,26 @@
+---
+layout: layouts/home.njk
+eleventyNavigation:
+  key: Home
+  order: 1
+---
+<section id="Events">
+    <h1>Training Events</h1>
+   
+    <div class="row">
+        {%- for event in collections.event -%}
+        <details>
+            <summary>
+            {{ event.data.event_name }} <br>
+            <span class="lil_summary"> {{ event.data.event_type }} </span>
+            <span class="lil_summary"> {{ event.data.cost }} </span>
+            <span class="lil_summary"> {{ event.data.location }} </span>
+            <span class="lil_summary">Starts: {{ event.data.starts }} </span>
+            <span class="lil_summary">Ends: {{ event.data.ends }} </span>
+            </summary>
+            {{ event.data.templateContent }}
+        </details>
+            {%- endfor -%}
+  
+            
+    </div>

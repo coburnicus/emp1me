@@ -9,6 +9,7 @@ ends: 2023-02-28T05:00:00Z
 location: ''
 registration_link: https://elearning.communityinclusion.org/courses/maines-vision-for-employment
 free: false
+tags: event
 
 ---
 Our online course is for case managers and anyone responsible for advising, assisting, and advocating for individuals with disabilities seeking employment.

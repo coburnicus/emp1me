@@ -107,7 +107,7 @@ margin-bottom: 3em;}
 }
 
 summary {
-  font-size: x-large;
+  font-size: large;
     font-weight: bold;
     margin: -.5em -.5em 0;
     padding: .5em;
@@ -132,6 +132,7 @@ details[open] summary ~ * {
 }
 
 summary {padding:1em;}
+.lil_summary {font-size: small; border-right:#5F9632 1px solid; padding-right: .5em;}
 
 @media (min-width: 992px) { 
   .mobi50 {max-width: 50%; float:right;}
