@@ -19,6 +19,7 @@ eleventyNavigation:
             <span class="lil_summary">Ends: {{ event.data.ends }} </span>
             </summary>
             {{ event.templateContent | safe }}
+            {{ event.data.registration_link}}
         </details>
             {%- endfor -%}
   
