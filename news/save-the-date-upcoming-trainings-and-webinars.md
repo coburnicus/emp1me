@@ -7,7 +7,7 @@ Webinar: Technology to Support Employment
 
 March 16, 2023 12-1pm zoom
 
-Webinar: Cultural Humility to Increase Services for Individuals
+Webinar: Cultural Humility to Improve Quality of Services for Individuals with Disabilities
 
 April 13, 2023 12-1pm zoom
 
