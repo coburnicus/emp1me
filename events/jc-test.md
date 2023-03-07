@@ -1,6 +1,6 @@
 ---
 event_type: Webinar
-event_name: 'Weighing My Options: Mental Health and Reasonable Accommodation on the
+title: 'Weighing My Options: Mental Health and Reasonable Accommodation on the
   Job'
 starts: 2022-11-30T14:00:00.000+00:00
 ends: 2022-11-30T17:00:00.000+00:00

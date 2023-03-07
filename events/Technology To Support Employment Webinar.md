@@ -4,7 +4,7 @@ event_type: Webinar
 cost: 25.0
 topic_area: ''
 tags: event
-event_name: 'Technology to Support Employment '
+title: 'Technology to Support Employment '
 starts: 2023-03-16T16:00:00Z
 ends: 2023-03-16T17:00:00Z
 location: zoom

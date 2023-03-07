@@ -2,9 +2,9 @@
 mwt: false
 event_type: Online
 cost: 0
-topic_area: 'Job Development and Support  '
+topic_area: 'Job Development and Support'
 tags: event
-event_name: Staying Safe at Work Training
+title: Staying Safe at Work Training
 starts: 
 ends: 
 location: zoom
