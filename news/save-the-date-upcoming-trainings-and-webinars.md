@@ -7,6 +7,10 @@ title: 'Save the Date: Upcoming Trainings and Webinars'
 
 May 11, 2023 10-1pm zoom
 
+**_Webinar: Self Employment Initiatives in Maine_**
+
+May 18, 12-1pm zoom
+
 **_Webinar:_ Progressive Employment Strategies**
 
 July 24, 2023, 12-1pm zoom
