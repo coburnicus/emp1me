@@ -4,7 +4,7 @@ event_type: Online
 cost: 
 topic_area: ''
 tags: event
-event_name: Online ACRE Employment Specialist Certificate Training
+title: Online ACRE Employment Specialist Certificate Training
 starts: 2023-04-01T04:00:00.000+00:00
 ends: 2023-06-30T04:00:00.000+00:00
 location: Online

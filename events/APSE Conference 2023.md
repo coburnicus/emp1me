@@ -4,7 +4,7 @@ event_type: In-Person
 cost: 485.0
 topic_area: ''
 tags: event
-event_name: 'APSE National Conference: Creating Connections'
+title: 'APSE National Conference: Creating Connections'
 starts: 2023-06-12T13:00:00Z
 ends: 2023-06-15T20:00:00Z
 location: Columbus Ohio

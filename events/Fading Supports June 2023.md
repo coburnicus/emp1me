@@ -4,7 +4,7 @@ event_type: In-Person
 cost: 75
 topic_area: ''
 tags: event
-event_name: Fading Supports in the Workplace
+title: Fading Supports in the Workplace
 starts: 2023-06-20T13:00:00.000+00:00
 ends: 2023-06-20T21:00:00.000+00:00
 location: University of Maine, Augusta

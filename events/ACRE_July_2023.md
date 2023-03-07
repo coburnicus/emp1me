@@ -4,7 +4,7 @@ event_type: Hybrid
 cost: 
 topic_area: ''
 tags: event
-event_name: ACRE Employment Specialist Certificate Training
+title: ACRE Employment Specialist Certificate Training
 starts: 2023-07-10T04:00:00.000+00:00
 ends: 2023-07-27T04:00:00.000+00:00
 location: Zoom and University of ME, Augusta

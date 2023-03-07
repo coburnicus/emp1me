@@ -4,7 +4,7 @@ event_type: In-Person
 cost: 75.0
 topic_area: ''
 tags: event
-event_name: 'Customized Employment: Tools and Techniques for Enhancing Services '
+title: 'Customized Employment: Tools and Techniques for Enhancing Services '
 starts: 2023-04-25T14:00:00Z
 ends: 2023-04-25T19:00:00Z
 location: University of Maine, Augusta

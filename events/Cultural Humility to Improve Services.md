@@ -4,7 +4,7 @@ event_type: Webinar
 cost: 25.0
 topic_area: ''
 tags: event
-event_name: 'Cultural Humility to Improve Quality of Services for Individuals with
+title: 'Cultural Humility to Improve Quality of Services for Individuals with
   Disabilities '
 starts: 2023-04-13T16:00:00Z
 ends: 2023-04-13T17:00:00Z
