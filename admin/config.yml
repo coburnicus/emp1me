@@ -13,5 +13,11 @@ collections:
     fields: # The fields for each document, usually in front matter
       - {label: "Layout", name: "layout", widget: "hidden", default: "event"}
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Start Date(hidden, just for page order)", name: "start_date", widget: "date"}
+      - {label: "Start Date(Not shown, just for page order)", name: "start_date", widget: "date"}
+      - {label: "Close Date(Not shown, when do you want this removed)", name: "close_date", widget: "date"}
+      - {label: "Date(s)", name: "dates", widget: "string"}
+      - {label: "Location", name: "location", widget: "string"}
+      - {label: "Time", name: "time", widget: "string"}
+      - {label: "Price", name: "price", widget: "string"}
+      - {label: "MWG Event?", name: "MWG", widget: "boolean", default: true}
       - {label: "Body", name: "body", widget: "markdown"}
