@@ -7,21 +7,25 @@ eleventyNavigation:
 <section id="Events">
     <h1>Training Events</h1>
    
-    <div class="row">
         {%- for event in collections.event -%}
+        <div class="row row-striped">
+            <div class="ps5">
         <details>
             <summary>
-            {{ event.data.event_name }} <br>
-            <span class="lil_summary"> {{ event.data.event_type }} </span>
-            <span class="lil_summary"> {{ event.data.cost }} </span>
-            <span class="lil_summary"> {{ event.data.location }} </span>
-            <span class="lil_summary">Starts: {{ event.data.starts }} </span>
-            <span class="lil_summary">Ends: {{ event.data.ends }} </span>
+            {{ event.data.title }} <br>
+            <ul>
+                <li class="lil_summary list-inline-item"><i class="fa fa-calendar-o" aria-hidden="true"></i> {{ event.data.dates }} </li>
+                <li class="lil_summary list-inline-item"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ event.data.time }} </li>
+            <li class="lil_summary list-inline-item"><i class="fa fa-usd" aria-hidden="true"></i> {{ event.data.cost }} </li>
+            <li class="lil_summary list-inline-item"><i class="fa fa-location-arrow" aria-hidden="true"></i> {{ event.data.location }} </li>
+            
+            
+            <ul>
             </summary>
             {{ event.templateContent | safe }}
             {{ event.data.registration_link}}
         </details>
-            {%- endfor -%}
-  
-            
     </div>
+    </div>
+            {%- endfor -%}  
+    

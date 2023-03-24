@@ -1,6 +1,5 @@
 ---
 mwt: true
-event_type: In-Person
 cost: 75
 topic_area: ''
 tags: event

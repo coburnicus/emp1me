@@ -37,9 +37,13 @@ margin-bottom: 3em;}
   }
   
   .row-striped {
-      padding: 15px 15px;
-      margin-bottom: 15px;
+      padding: 5px 5px;
+      margin-bottom: 5px;
   }
+  .row-striped details{
+    border:none;
+  }
+  .row-striped summary {padding: 0px; margin: 0px;}
 
   .navbar-toggler {background-color:#ccc}
  
