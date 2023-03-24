@@ -5,8 +5,8 @@ cost: 0
 topic_area: 'Job Development and Support'
 tags: event
 title: Staying Safe at Work Training
-starts: 
-ends: 
+date: 
+dates: multiple, ongoing
 location: zoom
 registration_link: https://iod.unh.edu/RAISE/upcoming-trainings
 free: true
