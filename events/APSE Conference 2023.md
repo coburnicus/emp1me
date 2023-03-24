@@ -5,8 +5,8 @@ cost: 485.0
 topic_area: ''
 tags: event
 title: 'APSE National Conference: Creating Connections'
-starts: 2023-06-12T13:00:00Z
-ends: 2023-06-15T20:00:00Z
+date: 2023-06-12T13:00:00Z
+dates: 2023-06-15T20:00:00Z
 location: Columbus Ohio
 registration_link: https://apse.org/2023-national-apse-conference-registration/
 free: false

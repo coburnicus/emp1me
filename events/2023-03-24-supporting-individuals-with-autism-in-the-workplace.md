@@ -1,8 +1,8 @@
 ---
 tags: event
 title: Supporting Individuals with Autism in the Workplace
-mwt: false
-start_date: 2023-05-11T19:14:03.075Z
+mwt: true
+date: 2023-05-11T19:14:03.075Z
 close_date: 2023-05-11T19:14:03.085Z
 dates: Thursday, May 11
 time: 10-1pm EDT

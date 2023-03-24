@@ -5,8 +5,8 @@ cost: 75.0
 topic_area: ''
 tags: event
 title: 'Customized Employment: Tools and Techniques for Enhancing Services '
-starts: 2023-04-25T14:00:00Z
-ends: 2023-04-25T19:00:00Z
+date: 2023-04-25T14:00:00Z
+dates: 2023-04-25T19:00:00Z
 location: University of Maine, Augusta
 registration_link: https://www.eventbrite.com/e/558248725967
 free: false

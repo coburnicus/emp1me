@@ -6,8 +6,8 @@ topic_area: ''
 tags: event
 title: 'Cultural Humility to Improve Quality of Services for Individuals with
   Disabilities '
-starts: 2023-04-13T16:00:00Z
-ends: 2023-04-13T17:00:00Z
+date: 2023-04-13T16:00:00Z
+dates: 2023-04-13T17:00:00Z
 location: zoom
 registration_link: https://www.eventbrite.com/e/webinar-cultural-humility-to-improve-services-tickets-558235476337
 free: false

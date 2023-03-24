@@ -5,8 +5,8 @@ cost:
 topic_area: ''
 tags: event
 title: Online ACRE Employment Specialist Certificate Training
-starts: 2023-04-01T04:00:00.000+00:00
-ends: 2023-06-30T04:00:00.000+00:00
+date: 2023-04-01T04:00:00.000+00:00
+dates: 2023-06-30T04:00:00.000+00:00
 location: Online
 registration_link: Healthcare Workforce Initiative Partnership- Worker Survey (office.com).
 free: true

@@ -7,12 +7,12 @@ eleventyNavigation:
 <section id="Events">
     <h1>Training Events</h1>
    
-        {%- for event in collections.event -%}
+        {%- for event in collections.event  -%}
         <div class="row row-striped">
             <div class="ps5">
         <details>
             <summary>
-            {{ event.data.title }} <br>
+            {{ event.data.title }} {% if event.data.mwt === true %}<span class="mwt"><img src="/img/maine_employment_logo_lone_pine.png" alt="lone pine logo"></span>{% endif %} <br>
             <ul>
                 <li class="lil_summary list-inline-item"><i class="fa fa-calendar-o" aria-hidden="true"></i> {{ event.data.dates }} </li>
                 <li class="lil_summary list-inline-item"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ event.data.time }} </li>
