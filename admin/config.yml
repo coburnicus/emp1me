@@ -22,4 +22,5 @@ collections:
       - {label: "Time", name: "time", widget: "string"}
       - {label: "Location", name: "location", widget: "string"}
       - {label: "Cost", name: "cost", widget: "string"}
+      - {label: "Registration Link", name: "registration_link", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
