@@ -23,7 +23,8 @@ eleventyNavigation:
             <ul>
             </summary>
             {{ event.templateContent | safe }}
-            {{ event.data.registration_link}}
+            <a class="btn btn-primary" title="Register for {{ event.data.title}}" href="{{ event.data.registration_link}}" role="link">Register and Learn More</a>
+            
         </details>
     </div>
     </div>
