@@ -1,17 +1,18 @@
 ---
 mwt: true
-event_type: Webinar
-cost: 25.0
-topic_area: ''
-tags: event
-title: 'Cultural Humility to Improve Quality of Services for Individuals with
-  Disabilities '
-date: 2023-04-13T16:00:00Z
-dates: 2023-04-13T17:00:00Z
-location: zoom
+dates: Thursday, April 13
 registration_link: https://www.eventbrite.com/e/webinar-cultural-humility-to-improve-services-tickets-558235476337
 free: false
-
+tags: event
+title: "Cultural Humility to Improve Quality of Services for Individuals with
+  Disabilities "
+date: 2023-04-13T16:00:00.000Z
+close_date: ""
+time: 12pm-1pm
+location: zoom
+cost: 25
+topic_area: ""
+event_type: Webinar
 ---
 Lunch and Learn Webinar
 
