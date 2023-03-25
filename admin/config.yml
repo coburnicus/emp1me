@@ -22,9 +22,9 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "MWT Event?", name: "mwt", widget: "boolean", default: true}
       - {label: "Start Date(Not shown, just for page order)", name: "date", widget: "date"}
-      - {label: "Close Date(Not shown, when do you want this removed)", name: "close_date", widget: "date", required:"false"}
+      - {label: "Close Date(Not shown, when do you want this removed)", name: "close_date", widget: "date", required: false}
       - {label: "Date(s)", name: "dates", widget: "string"}
-      - {label: "Time", name: "time", widget: "string", required:"false"}
+      - {label: "Time", name: "time", widget: "string", required: false}
       - {label: "Location", name: "location", widget: "string"}
       - {label: "Cost", name: "cost", widget: "string"}
       - {label: "Registration Link", name: "registration_link", widget: "string"}
