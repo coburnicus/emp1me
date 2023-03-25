@@ -17,5 +17,4 @@ This training is appropriate for professionals assisting people with autism on t
 \
 Presenters: Joshua Taylor, University of Maine, and Kelly Wanzer, Institute for Community Inclusion, UMass Boston 
 
-
-Questions about this webinar? Contact Kelly.Wanzer@umb.edu.
+Questions about this webinar? Contact [Kelly.Wanzer@umb.edu](mailto:Kelly.Wanzer@umb.edu).
