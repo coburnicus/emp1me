@@ -1,12 +1,13 @@
 ---
 mwt: true
-dates: 2023-06-20T21:00:00.000+00:00
+dates: Tuesday, June 20
 registration_link: https://www.eventbrite.com/e/fading-supports-in-the-workplace-tickets-532365317997
 free: false
 tags: event
 title: Fading Supports in the Workplace
 date: 2023-06-20T13:00:00.000+00:00
-close_date: 2023-03-25T02:20:46.586Z
+close_date: 2023-06-21T02:20:46.586Z
+time: 9am-4pm
 location: University of Maine, Augusta
 cost: 75
 topic_area: ""
