@@ -1,16 +1,16 @@
 ---
 mwt: true
-event_type: Hybrid
-cost: 
-topic_area: ''
+dates: Multiple Dates
+registration_link: https://forms.office.com/Pages/ResponsePage.aspx?id=q6g_QX0gYkubzeoajy-GTngqf1s2KVZBr7xhiHDTMRdUOTZGTzJPWDNaUktJME9NQkZISE04NVpYQi4u
+free: true
 tags: event
 title: ACRE Employment Specialist Certificate Training
 date: 2023-07-10T04:00:00.000+00:00
-dates: 2023-07-27T04:00:00.000+00:00
+close_date: 2023-07-28T03:13:36.990Z
 location: Zoom and University of ME, Augusta
-registration_link: Healthcare Workforce Initiative Partnership- Worker Survey (office.com).
-free: true
-
+cost: Free
+topic_area: ""
+event_type: Hybrid
 ---
 **Are you helping students or other individuals with disabilities to do career exploration, career planning, job development and/or job coaching?**
 
