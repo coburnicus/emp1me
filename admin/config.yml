@@ -3,6 +3,11 @@ backend:
   repo: communityinclusion/maineworkingtogether.org
   branch: master # Branch to update (optional; defaults to master)
 # This line should *not* be indented
+site_url: https://maineworkingtogether.org
+display_url: maineworkingtogether.org
+logo_url: https://maineworkingtogether.org/img/maine_employment_logo_lone_pine.png
+
+
 media_folder: "img/uploads" # Media files will be stored in the repo under images/uploads
 
 collections:
@@ -10,16 +15,16 @@ collections:
     label: "Event" # Used in the UI
     folder: "events" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    slug: "{{slug}}-{{year}}-{{month}}-{{day}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       # - {label: "Layout", name: "layout", widget: "hidden", default: "event"}
       - {label: "tags", name: "tags", widget: "hidden", default: "event"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "MWT Event?", name: "mwt", widget: "boolean", default: true}
       - {label: "Start Date(Not shown, just for page order)", name: "date", widget: "date"}
-      - {label: "Close Date(Not shown, when do you want this removed)", name: "close_date", widget: "date"}
+      - {label: "Close Date(Not shown, when do you want this removed)", name: "close_date", widget: "date", required:"false"}
       - {label: "Date(s)", name: "dates", widget: "string"}
-      - {label: "Time", name: "time", widget: "string"}
+      - {label: "Time", name: "time", widget: "string", required:"false"}
       - {label: "Location", name: "location", widget: "string"}
       - {label: "Cost", name: "cost", widget: "string"}
       - {label: "Registration Link", name: "registration_link", widget: "string"}
