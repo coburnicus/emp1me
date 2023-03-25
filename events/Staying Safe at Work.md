@@ -1,16 +1,16 @@
 ---
 mwt: false
-event_type: Online
-cost: 0
-topic_area: 'Job Development and Support'
-tags: event
-title: Staying Safe at Work Training
-date: 
 dates: multiple, ongoing
-location: zoom
 registration_link: https://iod.unh.edu/RAISE/upcoming-trainings
 free: true
-
+tags: event
+title: Staying Safe at Work Training
+date: 2023-06-29T04:00:00.000Z
+close_date: 2023-06-30T02:21:09.774Z
+location: Zoom
+cost: 0
+topic_area: Job Development and Support
+event_type: Online
 ---
 # Training is Key for Staying Safe at Work!
 
