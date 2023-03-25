@@ -21,8 +21,8 @@ collections:
       - {label: "tags", name: "tags", widget: "hidden", default: "event"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "MWT Event?", name: "mwt", widget: "boolean", default: true}
-      - {label: "Start Date(Not shown, just for page order)", name: "date", widget: "date"}
-      - {label: "Close Date(Not shown, when do you want this removed)", name: "close_date", widget: "date", required: false}
+      - {label: "Start Date(Not shown, just for page order)", name: "date",  default: "", widget: "datetime"}
+      - {label: "Close Date(Not shown, when do you want this removed)", name: "close_date",  default: "", widget: "datetime", required: false}
       - {label: "Date(s)", name: "dates", widget: "string"}
       - {label: "Time", name: "time", widget: "string", required: false}
       - {label: "Location", name: "location", widget: "string"}

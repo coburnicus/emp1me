@@ -78,6 +78,7 @@ margin-bottom: 3em;}
   /* Alternative transform: translate */
   hr + h2 {
     border-width: 1px 0;
+    margin-bottom: 1em;
   }
   hr + h2::before, hr + h2::after {
     display: block;
@@ -131,7 +132,7 @@ details[open] summary ~ * {
   animation: sweep .5s ease-in-out;
 }
 
-details .btn {margin-left:3em; margin-bottom: 1em;}
+details .btn {margin: left 3em; margin-bottom: 1em;}
 
 @keyframes sweep {
   0%    {opacity: 0; transform: translateX(-10px)}
@@ -144,4 +145,4 @@ summary {padding:1em;}
 @media (min-width: 992px) { 
   .mobi50 {max-width: 50%; float:right;}
 }
-.mwt img {max-width: 25px;}
+.mwt img {max-width: 20px;}
