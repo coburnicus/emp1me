@@ -8,7 +8,9 @@ eleventyNavigation:
 
     <hr>
 <h2>Upcoming Trainings & Events</h2>
-  
+<div class="instruct">
+<small>Select event for more information.</small> <small><span class="mwt"><img src="/img/lil_tree.png" alt="This is a MWT sponsored training"> Denotes a <i>Maine Working Together</i> event.</small>
+</div>
         {%- for event in collections.event  -%}
         <div class="row row-striped">
             <div class="ps5">
@@ -16,12 +18,19 @@ eleventyNavigation:
             <summary>
             {{ event.data.title }} {% if event.data.mwt === true %}<span class="mwt"><img src="/img/lil_tree.png" alt="This is a MWT sponsored training"></span>{% endif %} <br>
             <ul>
-                <li class="lil_summary list-inline-item"><i class="fa fa-calendar-o" aria-hidden="true"></i> {{ event.data.dates }} </li>
-                <li class="lil_summary list-inline-item"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ event.data.time }} </li>
-            <li class="lil_summary list-inline-item"><i class="fa fa-usd" aria-hidden="true"></i> {{ event.data.cost }} </li>
-            <li class="lil_summary list-inline-item"><i class="fa fa-location-arrow" aria-hidden="true"></i> {{ event.data.location }} </li>
-            
-            
+                {% if event.data.dates %}
+                <li class="lil_summary list-inline-item"><i class="fa fa-calendar-o" aria-hidden="true"></i> <time>{{ event.data.dates }}</time> </li>
+                {% endif %}
+                {% if event.data.time %}
+                <li class="lil_summary list-inline-item"><i class="fa fa-clock-o" aria-hidden="true"></i> <time>{{ event.data.time }}</time> </li>
+                {% endif %}
+                {% if event.data.cost %}
+            <li class="lil_summary list-inline-item">
+                <span class="mwt-green">&dollar;</span>{{ event.data.cost }} </li>
+            {% endif %}
+            {% if event.data.location %}
+            <li class="lil_summary list-inline-item no-right-border"><i class="fa fa-location-arrow" aria-hidden="true"></i> {{ event.data.location }} </li>
+            {% endif %}
             <ul>
             </summary>
            <div class="container"> {{ event.templateContent | safe }} </div>
