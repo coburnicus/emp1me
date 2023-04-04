@@ -29,3 +29,14 @@ collections:
       - {label: "Cost (just put the number, leave the $ off)", name: "cost", widget: "string"}
       - {label: "Registration Link", name: "registration_link", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
+
+ - name: "News" # Used in routes, e.g., /admin/collections/blog
+    label: "News" # Used in the UI
+    folder: "news" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{title}}-{{year}}-{{month}}-{{day}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      # - {label: "Layout", name: "layout", widget: "hidden", default: "event"}
+      - {label: "tags", name: "tags", widget: "hidden", default: "news"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
