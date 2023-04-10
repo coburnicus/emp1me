@@ -2,6 +2,7 @@
 <html lang="en">
   {% include 'head.html' %}
   <body>
+  <a class="sr-only sr-only-focusable" href="#content">Skip to main content</a>
     <!-- Google Tag Manager (noscript) -->
  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5CTKN9N"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> 
@@ -12,7 +13,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
      {% include 'header.html' %}
     </header>
 
-    <main{% if templateClass %} class="{{ templateClass }}"{% endif %}>
+    <main{% if templateClass %} id="content" class="{{ templateClass }}"{% endif %}>
 
             {% block content %}{% endblock %}
 
