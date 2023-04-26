@@ -11,21 +11,21 @@
         <details>
             <summary>
             {{ event.data.title }} {% if event.data.mwt === true %}<span class="mwt"><img src="/img/lil_tree.png" alt="This is a MWT sponsored training"></span>{% endif %} <br>
-            <ul>
+            
                 {% if event.data.dates %}
-                <li class="lil_summary list-inline-item"><i class="fa fa-calendar-o" aria-hidden="true"></i> <time>{{ event.data.dates }}</time> </li>
+                <span class="lil_summary list-inline-item"><i class="fa fa-calendar-o" aria-hidden="true"></i> <time>{{ event.data.dates }}</time> </span>
                 {% endif %}
                 {% if event.data.time %}
-                <li class="lil_summary list-inline-item"><i class="fa fa-clock-o" aria-hidden="true"></i> <time>{{ event.data.time }}</time> </li>
+                <span class="lil_summary list-inline-item"><i class="fa fa-clock-o" aria-hidden="true"></i> <time>{{ event.data.time }}</time> </span>
                 {% endif %}
                 {% if event.data.cost %}
-            <li class="lil_summary list-inline-item">
-                <span class="mwt-green">&dollar;</span>{{ event.data.cost }} </li>
+            <span class="lil_summary list-inline-item">
+                <span class="mwt-green">&dollar;</span>{{ event.data.cost }} </span>
             {% endif %}
             {% if event.data.location %}
-            <li class="lil_summary list-inline-item no-right-border"><i class="fa fa-location-arrow" aria-hidden="true"></i> {{ event.data.location }} </li>
+            <span class="lil_summary list-inline-item no-right-border"><i class="fa fa-location-arrow" aria-hidden="true"></i> {{ event.data.location }} </span>
             {% endif %}
-            <ul>
+            
             </summary>
            <div class="container"> {{ event.templateContent | safe }} </div>
             <a class="btn btn-primary" target="_blank" title="Register for {{ event.data.title}}" href="{{ event.data.registration_link}}" role="link">Register and Learn More</a>
