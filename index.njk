@@ -11,7 +11,7 @@ eleventyNavigation:
       <h2>News</h2>
       {%- for news in collections.news -%}
       
-          <h4 class="h5">{{ news.data.title }} </h4>
+          <h3 class="h5">{{ news.data.title }} </h3>
           
           {{ news.templateContent | safe }}
   <hr>
