@@ -156,3 +156,17 @@ summary {padding:1em;}
 
 .instruct {margin:auto; display: flex; align-items: center; justify-content: space-between; gap: 1rem; max-width: 600px;}
 
+
+/* Datatable.js styles */
+.page-link {
+  padding: 0.375rem 0.5rem!important;
+}
+
+.dtsp-titleRow {display: none;}
+.clearButton {display: none;}
+
+.dataTables_scrollBody 
+{overflow:none;}
+ 
+  
+  

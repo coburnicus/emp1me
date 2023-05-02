@@ -16,7 +16,7 @@ module.exports = () => {
                         allCerts.push({
                             last: record.get('Last Name'),
                             first: record.get('First Name'),
-                            cert: record.get('Certification'),
+                            cert: record.get('Certification Type'),
                             date: record.get('Date of Certification'),
                         })
                     })

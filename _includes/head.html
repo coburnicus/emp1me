@@ -10,8 +10,8 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">   
     <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">    	
     <link rel="stylesheet" href="/css/ici.css">
-  <link rel="stylesheet" href="https://cdn.datatables.net/searchpanes/2.0.2/css/searchPanes.dataTables.min.css">
-<link rel="stylesheet" href="https://cdn.datatables.net/select/1.4.0/css/select.dataTables.min.css">
+<link href="https://cdn.datatables.net/v/bs5/jq-3.6.0/dt-1.13.4/b-2.3.6/b-colvis-2.3.6/kt-2.9.0/r-2.4.1/sp-2.1.2/sl-1.6.2/datatables.min.css" rel="stylesheet"/>
+ 
     <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">
     <link rel="alternate" href="{{ metadata.jsonfeed.path | url }}" type="application/json" title="{{ metadata.title }}">
     <!-- Google Tag Manager -->
@@ -23,36 +23,42 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- End Google Tag Manager -->
 
 
-    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.12.1/css/jquery.dataTables.css">
-     <script type="text/javascript" language="javascript" src="https://code.jquery.com/jquery-3.5.1.js"></script>
 
-    <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.js"></script>
-  <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/searchpanes/2.0.2/js/dataTables.searchPanes.min.js"></script>
- <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/select/1.4.0/js/dataTables.select.min.js"></script>
- <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/buttons/2.2.3/js/dataTables.buttons.min.js"></script>
+
+ 
+<script src="https://cdn.datatables.net/v/bs5/jq-3.6.0/dt-1.13.4/b-2.3.6/b-colvis-2.3.6/kt-2.9.0/r-2.4.1/sp-2.1.2/sl-1.6.2/datatables.min.js"></script>
+
+ 
+
 <script type="text/javascript" language="javascript" class="init">
-    
-$(document).ready(function () {
 
+$(document).ready(function () {
+ 
        // Paging and other information are
         // disabled if required, set to true
         var myTable = $("#mainecertsdb").DataTable({
         
-          paging: true,
-          responsive: true,
+          pagingType: "first_last_numbers",
+           keys: true,
           searching: true,
           info: false,
+            scrollX:400,
            lengthMenu: 
-           [ [10, 25, 50, -1], [10, 25, 50, "All"] ],
-               dom: 'Plfrtip',
-            columnDefs: [{
-      searchPanes: {
-        show: false
-      },
-        targets: [0,1,3]
-      
-    }]
+           [ [ 25, 50, -1], [ 25, 50, "All"] ],
+   responsive: true,
+           columnDefs: [
+            { responsivePriority: 1, targets: 0 },
+        ]
         });
+        
       });
+
+
+
     </script>
+
+
+
+
+
   </head>
