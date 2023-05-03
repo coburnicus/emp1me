@@ -10,11 +10,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
     <div class="container">
       <div class="content mx-lg-5">
-    <header>
+   
      {% include 'header.html' %}
-    </header>
 
-    <main{% if templateClass %} id="content" class="{{ templateClass }}"{% endif %}>
+    <main {% if templateClass %} id="content" class="{{ templateClass }}"{% endif %}>
 
             {% block content %}{% endblock %}
 

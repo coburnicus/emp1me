@@ -1,7 +1,7 @@
 a {color: #0077AF;}
-h1, h2 {font-family: 'Montserrat', sans-serif;}
-header h1 {color:#5F9632; padding-bottom: 0px; margin-bottom: 0px;}
-header h2 {color: #0077AF; padding-top:0px; margin-top:0px;}
+.top_row .bottom_row {font-family: 'Montserrat', sans-serif;}
+.top_row {color:#5F9632; padding-bottom: 0px; margin-bottom: 0px;}
+.bottom_row {color: #0077AF; padding-top:0px; margin-top:0px;}
 header img {float: right; max-width: 200px;}
 header a {text-decoration:none;}
 header {  border-bottom: 5px solid;
