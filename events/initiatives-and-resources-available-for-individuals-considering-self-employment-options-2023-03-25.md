@@ -5,7 +5,7 @@ title: Initiatives and Resources Available for Individuals Considering
 mwt: true
 date: 2023-05-18T04:00:00.000Z
 close_date: 2023-05-18T04:00:00.000Z
-dates: Thursday, May18
+dates: Thursday, May 18
 time: 12pm-1pm
 location: Zoom
 cost: "25"
