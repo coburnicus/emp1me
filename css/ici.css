@@ -6,7 +6,7 @@ header img {float: right; max-width: 200px;}
 header a {text-decoration:none;}
 header {  border-bottom: 5px solid;
     border-image: linear-gradient(45deg,#5F9632, #0077AF) 1;
-margin-bottom: 3em;
+margin-bottom: 1em;
 }
 
 main.h2 {
@@ -168,5 +168,12 @@ summary {padding:1em;}
 .dataTables_scrollBody 
 {overflow:none;}
  
-  
-  
+.sources {background-color: #F7F7F8;
+padding: .5em;}
+
+article {background-color: white;
+  border: 2px solid;
+  border-image: linear-gradient(45deg,#5F9632, #0077AF) 1;
+  margin:1em;
+  padding: 1em;
+}
