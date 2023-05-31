@@ -1,11 +1,11 @@
 ---
 tags: event
-title: Fading Supports in the Workplace
+title: FREE Fading Supports in the Workplace Training
 mwt: true
 date: 2023-06-20T13:00:00.000+00:00
 close_date: 2023-06-21T02:20:46.586Z
 dates: Tuesday, June 20
-time: 9am-4pm
+time: 9am-2pm
 location: Zoom
 cost: Free
 registration_link: https://forms.office.com/Pages/ResponsePage.aspx?id=q6g_QX0gYkubzeoajy-GTngqf1s2KVZBr7xhiHDTMRdUOTZGTzJPWDNaUktJME9NQkZISE04NVpYQi4u&wdLOR=c44FF4391-0D1F-AB46-A713-CB2564B97DB7
