@@ -1,21 +1,40 @@
 <nav class="navbar navbar-expand-lg">
-    <div class="container-fluid">
-      <a class="navbar-brand d-lg-none" href="/">MaineWorkingTogether</a>
-      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-         <i class="fa fa-bars" aria-hidden="true"></i></button>
-      <div class="collapse navbar-collapse justify-content-end " id="navbarNavAltMarkup">
-        <div class="navbar-nav">
-          <a class="nav-link" href="/">Home</a>
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#">MaineWorkingTogether</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse justify-content-end" id="navbarNavDropdown">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="#">Home</a>
+        </li>
+        <li class="nav-item">
           <a class="nav-link" href="/about/">About</a>
-            <a class="nav-link" href="/certification/">Certification</a>
-          <a class="nav-link" href="/certificate-registry">Certificate Registry </a>
-                      <a class="nav-link" href="/staff/">Staff</a>
-          <!--<a class="nav-link" href="#">Trainings</a>
-          <a class="nav-link" href="#">Resources</a>-->
-        </div>
-      </div>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/certification/">Certification</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/certificate-registry">Certificate Registry</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/staff/">Staff</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Resources
+          </a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="/self">Action</a></li>
+            <li><a class="dropdown-item" href="#">Self-Determination/Self-Advocacy </a></li>
+            <li><a class="dropdown-item" href="#">Something else here</a></li>
+          </ul>
+        </li>
+      </ul>
     </div>
-  </nav>
+  </div>
+</nav>
   <header class="row">
   
     <div class="col-sm-3"><img src="/img/maine_employment_logo_lone_pine.png" alt="lone pine logo"></div>
