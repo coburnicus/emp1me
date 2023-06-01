@@ -149,6 +149,7 @@ summary {padding:1em;}
 
 @media (min-width: 992px) { 
   .mobi50 {max-width: 50%; float:right;}
+  nav {padding-bottom: 0px; margin-bottom: 0px;}
 }
 .mwt img {max-width:15px;}
 .mwt-green {color:#5F9632;}
