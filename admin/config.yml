@@ -40,3 +40,16 @@ collections:
       - {label: "tags", name: "tags", widget: "hidden", default: "news"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "resources" # Used in routes, e.g., /admin/collections/blog
+    label: "Resource" # Used in the UI  
+    folder: "resources" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{title}}-{{year}}-{{month}}-{{day}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      # - {label: "Layout", name: "layout", widget: "hidden", default: "event"}
+      - {label: "tags", name: "tags", widget: "hidden", default: "resource"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Summary", name: "summary", widget: "markdown"}
+      - {label: "Topic", name: "topic", widget: "markdown"}
+      - {label: "Body", name: "body", widget: "markdown"}
