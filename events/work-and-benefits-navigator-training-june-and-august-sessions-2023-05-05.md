@@ -1,11 +1,11 @@
 ---
 tags: event
-title: Work and Benefits Navigator Training - June and August sessions
+title: "Work and Benefits Navigator Training "
 mwt: false
-date: 2023-06-07T13:00:00.000Z
+date: 2023-08-18T13:00:00.000Z
 close_date: ""
-dates: multiple dates
-location: June session - virtual, August session - Lewiston ME
+dates: August 18, 2023
+location: " August session - Lewiston ME"
 cost: "25"
 registration_link: https://www.mhesevents.org/event/e15a9475-5ccb-4eaf-95cf-e520278d9f4b/summary
 ---
