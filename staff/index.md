@@ -65,15 +65,6 @@ eleventyNavigation:
             </div>
           </div>
       </div>
-              <div class="col d-flex align-item-end">
-          <div class="card shadow-sm">
-              <img src="../img/staff/Oswald-Bio-Pic.jpg" alt="Gina Oswald" />
-            <div class="card-body">
-                <h5 class="card-title">Gina Oswald, PhD</h5>
-              <p class="card-text">Gina brings over 20 years of experience across employment, vocational rehabilitation, and professional development pedagogy as a Senior Extension Associate supporting the Vocational Rehabilitation – Training, Education, and Development (VR-TED) project and NYS Consortium for Advancing and Supporting Employment (CASE) project at the K. Lisa Yang and Hock E. Tan Institute on Employment and Disability. Her career has included experience at the local, state, and national levels through the direct provision of vocational habilitation and rehabilitation services in Ohio, professional development of preservice and current practitioners across the country, and leadership at the national level in rehabilitation organizations. </p>
-            </div>
-          </div>
-      </div>
           <div class="col d-flex align-item-end">
           <div class="card shadow-sm">
              <img class="card-img-top" src="../img/staff/Bonnie_Robinson_600x600.jpg" alt="Bonnie Robinson" />
@@ -83,15 +74,7 @@ eleventyNavigation:
             </div>
           </div>
       </div>
-      <div class="col d-flex align-item-end">
-          <div class="card shadow-sm">
-           <img class="card-img-top img-fluid" src="../img/staff/Taylor-Josh-Headshot.jpg" alt="Josh Taylor"  />
-            <div class="card-body">
-                <h5 class="card-title">Josh Taylor, PhD </h5>
-              <p class="card-text">Josh is an Assistant Professor of Special Education in the College of Education and Human Development at the University of Maine. His research focuses on promoting lifelong success for individuals with autism and developmental disabilities through implementation of evidence-based practices in inclusive school, work, and community settings. He earned a PhD in special education from Virginia Commonwealth University with a focus on research-to-policy implementation, and a Master of Education from the University of Virginia. Josh has promoted improved outcomes for people with disabilities in education and employment for over 10 years. Josh delivers presentations and training to assist stakeholders across Maine and the US to improve outcomes for individuals with disabilities. </p>
-            </div>
-          </div>
-      </div>
+     
      </div>
 
      
