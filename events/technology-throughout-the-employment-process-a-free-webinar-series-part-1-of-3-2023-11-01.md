@@ -13,7 +13,7 @@ registration_link: https://bit.ly/ATwebinarpart1
 ---
 **Register here for Webinar #1** <https://bit.ly/ATwebinarpart1>
 
-This 3-part webinar series aims to provide up-to-date, practical, and relevant information to facilitate the use of technology across the many aspects of the employment process. *Register for one, two, or all three of the webinar sessions at no cost.* Each webinar session provides 1 hour of professional development. *The webinar series is for anyone who performs job development activities and/or support to individuals at their jobsite.*
+This 3-part webinar series aims to provide up-to-date, practical, and relevant information to facilitate the use of technology across the many aspects of the employment process. Register for one, two, or all three of the webinar sessions at no cost. Each webinar session provides 1 hour of professional development. *The webinar series is for anyone who performs job development activities and/or support to individuals at their jobsite.*
 
 **Webinar #1-Technology Tools On-the-Job** 
 
