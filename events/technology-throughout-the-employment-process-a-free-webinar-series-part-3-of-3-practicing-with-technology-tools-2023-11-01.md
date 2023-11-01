@@ -11,8 +11,6 @@ location: Zoom
 cost: Free
 registration_link: https://bit.ly/ATwebinarpart3
 ---
-Register here <https://bit.ly/ATwebinarpart3>
-
 This webinar series aims to provide up-to-date, practical, and relevant information to facilitate the use of technology across the many aspects of the employment process. Register for one, two, or all three of the following webinar sessions at no cost. *Each webinar session provides 1 hour of professional development. The webinar series is for anyone who performs job development activities and/or support to individuals at their jobsite.*
 
 **Webinar #3-Practicing With Technology Tools** 
