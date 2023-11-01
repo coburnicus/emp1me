@@ -1,7 +1,7 @@
 ---
 tags: event
 title: "Technology Throughout The Employment Process: A Free Webinar Series Part
-  1 of 3"
+  1 of 3 Technology Tools On-The-Job"
 mwt: true
 date: 2023-12-12T14:00:00.000Z
 close_date: ""
