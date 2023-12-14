@@ -9,9 +9,7 @@ location: Zoom and in-person Augusta ME
 cost: "50.00"
 registration_link: https://www.eventbrite.com/e/maine-career-planning-certification-training-tickets-769080208607
 ---
-A strong Career Planner has skills and abilities that support-
-
-working with people one to one, ability to talk with businesses and learn and connect people to companies and capture accurate information and develop a detailed written Career Plan while staying organized.
+A strong Career Planner has skills and abilities that support: working with people one-on-one, the ability to talk with businesses,  connect people to companies, capture accurate information, and develop a detailed written Career Plan while staying organized. 
 
 **Dates for the full Certificate Series:**
 
