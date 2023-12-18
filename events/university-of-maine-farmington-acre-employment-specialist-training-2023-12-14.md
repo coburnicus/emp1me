@@ -14,7 +14,7 @@ Students take 2 college courses, REH 270- Fundamentals of Vocational Counseling
 * Classes are online asynchronous. 
 * The curriculum is ACRE certified and the completion of the course results in the student being enrolled on the national registry for the Basic Employment Specialist Certificate.
 * Grant money is available to pay for one of the two classes.  
-*  The courses are being offered January 16th through May 5tth. and Summer of 2024.
+*  The courses are being offered January 16th through May 5th. and Summer of 2024.
 * This opportunity is part of a grant and the grant pays for one of the two classes. 
 
 Once a student has filled out the "intent to participate"  through Educational Outreach, they can apply for the grant funds for one of the two required classes. The application is here:
