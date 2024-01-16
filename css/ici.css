@@ -50,6 +50,8 @@ margin-bottom: 1em;}
 
   .navbar-toggler {background-color:#ccc}
  
+  .boxer hr {margin:0px;} 
+
   hr {
     display: block;
     margin: 50px 0 0px;
