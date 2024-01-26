@@ -1,4 +1,5 @@
 ---
+tags: event
 title: "Financial Literacy: Invest in ME Reads Financial Wellness Program"
 mwt: true
 date: 2024-05-07T19:00:25.558Z
