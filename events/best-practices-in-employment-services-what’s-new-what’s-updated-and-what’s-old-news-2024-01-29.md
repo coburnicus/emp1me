@@ -1,7 +1,7 @@
 ---
 tags: event
-title: "Best Practices in Employment Services: What’s New, What’s Updated, and
-  What’s Old News"
+title: Best Practices in Employment Services:What’s New, What’s Updated, and
+  What’s Old News
 mwt: true
 date: 2024-03-28T16:30:00.000Z
 close_date: ""
