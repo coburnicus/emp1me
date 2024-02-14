@@ -5,7 +5,7 @@ mwt: true
 date: 2024-04-01T12:00:00.000Z
 close_date: ""
 dates: April 1-30, 2024
-location: Canvas online platform,  you will receive a link after you register
+location: Canvas online platform
 cost: FREE
 registration_link: https://elearning.communityinclusion.org/courses/maine-online-trainings
 ---
