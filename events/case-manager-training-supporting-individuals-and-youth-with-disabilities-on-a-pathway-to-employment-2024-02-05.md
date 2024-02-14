@@ -1,6 +1,6 @@
 ---
 tags: event
-title: "Free Case Manager Training: Supporting Individuals and Youth With
+title: "Case Manager Training: Supporting Individuals and Youth With
   Disabilities on a Pathway to Employment"
 mwt: true
 date: 2024-04-01T13:00:00.000Z
