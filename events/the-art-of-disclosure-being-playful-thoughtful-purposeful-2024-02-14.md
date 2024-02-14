@@ -6,7 +6,7 @@ date: 2024-04-10T19:00:00.000Z
 close_date: ""
 dates: April 10, 2024
 time: 3-4pm
-location: Zoom, you will receive a link after your register
+location: Zoom
 cost: FREE
 registration_link: "
   https://communityinclusion.zoom.us/meeting/register/tJ0kf--qrz4sGdINxaZ2EkBZr\
