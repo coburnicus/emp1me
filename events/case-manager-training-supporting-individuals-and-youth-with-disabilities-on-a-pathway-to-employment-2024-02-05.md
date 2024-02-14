@@ -6,7 +6,7 @@ mwt: true
 date: 2024-04-01T13:00:00.000Z
 close_date: ""
 dates: April 1-30, 2024
-location: Online
+location: Canvas online platform
 cost: "40"
 registration_link: https://elearning.communityinclusion.org/courses/maines-vision-for-employment
 ---
