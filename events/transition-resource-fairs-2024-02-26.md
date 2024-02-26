@@ -4,16 +4,19 @@ title: "Transition Resource Fairs "
 mwt: false
 date: 2024-03-06T20:00:00.000Z
 close_date: ""
-dates: Wed. March 6 Kennebunk High School, Thurs. April 4 Scarborough High School
+dates: Wed. March 6 Kennebunk High School, Thurs. April 4 Scarborough High
+  School, Wed April 9 Winthrop High School
 location: varies high schools
 cost: FREE
 registration_link: no registration required
 ---
 **Maine Parent Federation will be hosting two Transition Resource Fairs this Spring.**  **Dates and Locations:**
 
- **Wednesday, March 6 at Kennebunk High School, Exhibits Open 10 AM to 1:30 PM**
+ **Wednesday, March 6 at Kennebunk High School, Exhibits Open 10:00 AM - 1:30 PM**
 
-**Thursday, April 4th at Scarborough High School, Exhibits Open 9:00 AM – 1:30 PM**
+**Thursday, April 4th at Scarborough High School, Exhibits Open 9:00 AM - 1:30 PM**
+
+**Wednesday, April 9 at Winthrop High School, Exhibits Open 12:00pm - 2:00pm**
 
  If your agency would like to have a display table, please email  [abourque@mpf.org](mailto:abourque@mpf.org "mailto\:abourque@mpf.org") to get more information and register.  Tables and chairs will be provided.
 
