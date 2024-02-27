@@ -1,6 +1,6 @@
 ---
 tags: event
-title: "The Art of Disclosure: Being Playful, Thoughtful, & Purposeful"
+title: "The Art of Disclosure: Being Planful, Thoughtful, & Purposeful"
 mwt: true
 date: 2024-04-10T19:00:00.000Z
 close_date: ""
