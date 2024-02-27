@@ -1,6 +1,6 @@
 ---
 tags: event
-title: "Free, Online Training Course: Family Engagement and Employment Success"
+title: "Free Online Training Course: Family Engagement and Employment Success"
 mwt: true
 date: 2024-04-01T12:00:00.000Z
 close_date: ""
