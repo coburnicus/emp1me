@@ -8,7 +8,7 @@ dates: Tuesday June 25, 2024
 time: 10:00-11:00am
 location: Zoom
 cost: Free
-registration_link: https://umassboston.co1.qualtrics.com/jfe/form/SV_aYs9C9E6CEqd2Ye
+registration_link: https://communityinclusion.zoom.us/meeting/register/tJcsfumrqD8iHdNvNn7MQDhc5-X76Ir_OrMb#/registration
 ---
 Have you noticed that a resume isn’t always the best tool to highlight a job seeker’s potential? In fact, traditional resumes can often leave employers with more questions and hesitations. What can employment professionals do instead?
 
