@@ -10,7 +10,7 @@ location: Zoom
 cost: FREE
 registration_link: https://forms.office.com/Pages/ResponsePage.aspx?id=q6g_QX0gYkubzeoajy-GTngqf1s2KVZBr7xhiHDTMRdUOTZGTzJPWDNaUktJME9NQkZISE04NVpYQi4u
 ---
-Critical to the success of individuals with disabilities in employment is successful fading and maximizing the use of natural supports. This FREE training will include why fading and natural supports are important for people with disabilities, programs that support them, and businesses that hire them. You will learn how to identify and use natural supports at the jobsite, when and how to implement systematic instruction and task analysis, and how to build the independence and confidence of the individual in the workplace. The training is appropriate for anyone providing support services to individuals and students with disabilities. Earn 6 hours of professional development time.
+Critical to the success of individuals with disabilities in employment is successful fading and maximizing the use of natural supports. This FREE training will include why fading and natural supports are important for people with disabilities, programs that support them, and businesses that hire them. You will learn how to identify and use natural supports at the jobsite, when and how to implement systematic instruction and task analysis, and how to build the independence and confidence of the individual in the workplace. The training is appropriate for anyone providing support services to individuals and students with disabilities. Earn 5 hours of professional development time.
 
 Do you want to be a Maine Certified Support Professional? This training also counts as part 2 of the: JOB COACH Credential Program.  Click here to learn more <https://www.maineworkingtogether.org/certification/>
 
