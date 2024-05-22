@@ -7,7 +7,7 @@ close_date: ""
 dates: Wednesday August 7, 2024
 time: 9:30am-12:30pm
 location: zoom
-cost: "50"
+cost: FREE
 registration_link: https://www.eventbrite.com/e/supporting-individuals-with-autism-in-the-workplace-tickets-851612685467
 ---
 Individuals with autism bring valuable and unique assets to the workplace, yet supporting the specific and often complex needs of clients with autism can be challenging for employers. How can employment professionals and educators support the sensory, communication, social, and mental health needs of autistic job seekers while engaging their strengths in the workplace? How can practitioners ensure that job placements are well-matched to mutually benefit the preferences and needs of job seekers and employers?
