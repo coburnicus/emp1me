@@ -12,26 +12,8 @@ eleventyNavigation:
           <div class="card shadow-sm">
             <img src="../img/staff/lara-enein.jpg" alt="Lara Enein" />
             <div class="card-body">
-            <h5 class="card-title">Lara Enein, MA, CESP, ACRE </h5>
+            <h5 class="card-title">Lara Enein, MA, CESP </h5>
               <p class="card-text">Lara Enein is a Program Manager and the Director of the Maine Working Together Project. She is the coordinator of the Employment Services Program at the Institute for Community Inclusion (ICI) at the University of Massachusetts Boston (UMass Boston). She develops curricula for the DirectCourse College of Employment Services and for other projects. Lara is an approved Association of Community Rehabilitation Educators (ACRE) trainer and a member of the ACRE Board of Directors. Lara delivers presentations, technical assistance, and training to assist provider agencies, state agencies, and career centers to build their capacity to serve individuals with disabilities. </p>
-            </div>
-          </div>
-      </div>
-         <div class="col d-flex align-item-end">
-          <div class="card shadow-sm">
-             <img src="../img/staff/cecilia-gandolfo.jpg" alt="Cecilia Gandolfo" />
-            <div class="card-body">
-                <h5 class="card-title">Cecilia Gandolfo, MS, MEd, CESP </h5>
-              <p class="card-text">Cecilia is a Program Director at the ICI at UMass Boston and a trainer on this project. Cecilia develops curricula and delivers training and technical assistance on best practices in employment services, business engagement, and provider transformation. In Maine, she is known for her engaging delivery style of both ACRE and Progressive Employment training for community rehabilitation providers, VR staff, and educators. She is an approved ACRE trainer and served for over 10 years on the ACRE Board of Directors, including as the ACRE President.  </p>
-            </div>
-          </div>
-      </div>
-           <div class="col d-flex align-item-end">
-          <div class="card shadow-sm">
-            <img src="../img/staff/david-hoff.jpg" alt="David Hoff" />
-            <div class="card-body">
-                <h5 class="card-title">David Hoff, MSW</h5>
-              <p class="card-text">David Hoff is a Program Director at the ICI at UMass Boston. In this role, he provides training and technical assistance to service providers and public agencies throughout the United States on advancing employment for individuals with disabilities, including presentations on a regular basis in Maine. In addition to his 25 years at ICI, David also has experience in direct service roles and as a workforce system administrator. He previously spent 10 years in management in the private sector.</p>
             </div>
           </div>
       </div>
