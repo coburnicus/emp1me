@@ -10,7 +10,7 @@ eleventyNavigation:
  <div class="row pt-3 row-eq-height row-cols-1 row-cols-xs-1 row-cols-sm-2 row-cols-lg-3 align-self-stretch g-3 mb-5">
    <div class="col d-flex align-item-end">
           <div class="card shadow-sm">
-            <img src="../img/staff/lara-enein.jpg" alt="Lara Enein" />
+            <img src="../img/staff/LaraEnein.jpg" alt="Lara Enein" />
             <div class="card-body">
             <h5 class="card-title">Lara Enein - MA, CESP </h5>
               <p class="card-text">Lara Enein is a Program Manager and the Director of the Maine Working Together Project. She is the coordinator of the Employment Services Program at the Institute for Community Inclusion (ICI) at the University of Massachusetts Boston (UMass Boston). She develops curricula for the DirectCourse College of Employment Services and for other projects. Lara is an approved Association of Community Rehabilitation Educators (ACRE) trainer and a member of the ACRE Board of Directors. Lara delivers presentations, technical assistance, and training to assist provider agencies, state agencies, and career centers to build their capacity to serve individuals with disabilities. </p>
