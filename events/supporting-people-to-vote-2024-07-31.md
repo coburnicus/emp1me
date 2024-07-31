@@ -1,6 +1,6 @@
 ---
 tags: event
-title: Supporting People to Vote
+title: "Maine Meaningful Day and Employment Webinar: Supporting People to Vote"
 mwt: false
 date: 2024-08-27T04:00:00.000Z
 close_date: ""
