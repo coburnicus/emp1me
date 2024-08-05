@@ -1,6 +1,6 @@
 ---
 tags: event
-title: "Save The Date: Speaking Up For Us (SUFU) Statewide Conference"
+title: Speaking Up For Us (SUFU) Statewide Conference
 mwt: false
 date: 2024-09-24T04:00:00.000Z
 close_date: ""
