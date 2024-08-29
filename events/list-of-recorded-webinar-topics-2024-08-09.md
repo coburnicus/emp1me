@@ -45,4 +45,4 @@ The Art of Disclosure
 
 Creative Strategies for Showcasing Job Seekers: Beyond Traditional Resumes
 
-Supporting Individuals with Complex Needs (will be available soon – having video captioned)
+Supporting Individuals with Complex Needs
