@@ -1,13 +1,17 @@
 ---
 tags: event
-title: SAVE THE Date- Maine Apse Fall Conference
+title: "Maine Apse Conference 2024: Access To Good Jobs For All"
 mwt: false
 date: 2024-11-13T05:00:00.000Z
 close_date: ""
 dates: Wednesday November 13, 2024
-time: 9:00-3:00pm
+time: 10:00-3:00pm
 location: Hilton Garden Inn, Bangor Maine
-cost: TBD
-registration_link: TBD
+cost: "30"
+registration_link: HTTPS://WWW.EVENTBRITE.COM/E/MAINE-APSE- CONFERENCE-2024-TICKETS-990778694747
 ---
-Details and registration information coming soon....
+Keynote Speaker: Gina Oswald, PhD, NBC-HWC. Yang Tan Institute on Employment and Disability, Cornell University
+
+Panel and Presenter information coming soon...
+
+To learn more about Maine APSE visit <HTTPS://MAINEAPSE.WEEBLY.COM>
