@@ -8,7 +8,7 @@ dates: Wednesday November 13, 2024
 time: 10:00-3:00pm
 location: Hilton Garden Inn, Bangor Maine
 cost: "30"
-registration_link: HTTPS://WWW.EVENTBRITE.COM/E/MAINE-APSE- CONFERENCE-2024-TICKETS-990778694747
+registration_link: https://www.eventbrite.com/e/maine-apse-conference-2024-tickets-990778694747
 ---
 Keynote Speaker: Gina Oswald, PhD, NBC-HWC. Yang Tan Institute on Employment and Disability, Cornell University
 
