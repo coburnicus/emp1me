@@ -2,7 +2,7 @@
 tags: event
 title: Family Engagement and Employment Success Online Training
 mwt: true
-date: 2024-11-01T04:00:00.000Z
+date: 2024-11-02T04:00:00.000Z
 close_date: 2024-11-30T05:00:00.000Z
 dates: November 1-30, 2024
 time: Registration will stay open until November 30
