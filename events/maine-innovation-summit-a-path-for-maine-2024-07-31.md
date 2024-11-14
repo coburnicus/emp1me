@@ -5,7 +5,7 @@ mwt: false
 date: 2025-05-19T04:00:00.000Z
 close_date: ""
 dates: May 19 & 20, 2025
-location: Holiday Day Inn by the Bay, Portland ME
+location: Holiday Inn by the Bay, Portland ME
 cost: TBD
 registration_link: TBD
 ---
