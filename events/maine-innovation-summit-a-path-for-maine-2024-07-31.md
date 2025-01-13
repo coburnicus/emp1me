@@ -7,7 +7,7 @@ close_date: ""
 dates: May 19 & 20, 2025
 location: Holiday Inn by the Bay, Portland ME
 cost: TBD
-registration_link: TBD
+registration_link: https://www.innovationsummitme.com
 ---
 This state and national-level conference will provide a chance to showcase innovations in delivery of services for individuals with intellectual or developmental disabilities or autism as well as those with conditions such as cerebral palsy, or seizure disorder, or other similar conditions. *Registration information coming soon.*
 
